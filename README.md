@@ -1,0 +1,1 @@
+# Boyunu tahmi eden uygulama
